@@ -1,0 +1,2 @@
+# Starting compiling Assembly-CSharp.dll
+/Applications/Unity/Hub/Editor/2020.2.0f1c1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-b515531f5d9a3494aa849be52282abc2

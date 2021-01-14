@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{FD0A69E9-A159-4F5F-A127-3EC39165F147}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Pi.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Pi.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PiFramework" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="25e6b377-3534-4972-8003-0e6f0b9fd561" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
